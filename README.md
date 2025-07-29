@@ -10,3 +10,10 @@
 - train_hq.zip
 - train_masks.csv.zip
 - train_masks.zip
+
+
+## Efficientnet-b0 
+
+### GT vs Predicted
+![model-output](./outputs/output1.png)
+![model-output](./outputs/output1.png)
