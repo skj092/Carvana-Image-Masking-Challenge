@@ -12,8 +12,15 @@
 - train_masks.zip
 
 
-## Efficientnet-b0 
+## Efficientnet-b0
+
+- Public Score: 0.99002
+- Private Score: 0.98917
 
 ### GT vs Predicted
+
 ![model-output](./outputs/output1.png)
 ![model-output](./outputs/output1.png)
+
+
+
